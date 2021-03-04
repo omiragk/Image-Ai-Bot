@@ -1,0 +1,31 @@
+{
+    "name": "IMAGE AI BOT",
+    "description": "An AI based Telegram bot that can describe every photo that you send.",
+    "keywords": [
+        "AI",
+        "Omiragk",
+        "Fun",
+        "Telegram",
+        "Bot"
+    ],
+    "logo": "https://telegra.ph/file/0fa22c0116decb3fcd9cf.png",
+    "repository": "https://github.com/omiragk/Image-AI-Bot",
+    "success_url": "/",
+    "env": {
+        "TG_BOT_TOKEN": {
+            "description": "your Telegram Bot Token, from @BotFather"
+        },"BOT_NAME": {
+            "description": "your Telegram Bot Name"
+        },
+        "BOT_USERNAME": {
+            "description": "Your telegram bot username"
+        }
+    },
+    "formation": {
+        "web": {
+            "quantity": 1,
+            "size": "free"
+        }
+    },
+    "image": "heroku/php"
+}
