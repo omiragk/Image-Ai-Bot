@@ -60,7 +60,7 @@ Alvi('sendMessage',[
 'reply_to_message_id'=>$message_id,
 ]);
 }
-if($msg == "/start" or $msg == "/start@MissAlvi_bot"){
+if($msg == "/start" or $msg == "/start@$BOT_USERNAME"){
 Alvi('sendMessage',[
 'chat_id'=>$chat_id,
 'text'=>"***Hey  👋 $first_name,
