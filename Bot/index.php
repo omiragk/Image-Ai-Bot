@@ -75,7 +75,7 @@ Also add me to your group and make me admin. I'll reply to every photo😌.***",
 'reply_markup' =>  json_encode([
 'inline_keyboard' => [
 [['text' => "CREATOR", 'url' => "https://telegram.me/omiragk"]],
-[['text' => "ADD ME", 'url' => "https://telegram.me/@$BOT_USERNAME?startgroup=False"]], 
+[['text' => "ADD ME", 'url' => "https://telegram.me/$BOT_USERNAME?startgroup=False"]], 
 ]])
 ]);
 }
