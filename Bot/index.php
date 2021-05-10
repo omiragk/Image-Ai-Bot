@@ -1,10 +1,5 @@
 <?php
-/*
-AUTHOR:- omiragk
-THIS REPO IS LICENCED WITH GENERAL PUBLIC LICENSE VERSION:3.0
 
-(c) omiragk
-*/
 
 require_once __DIR__ . "/config.php";
 
