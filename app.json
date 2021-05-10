@@ -16,6 +16,8 @@
             "description": "your Telegram Bot Token, from @BotFather"
         },"BOT_NAME": {
             "description": "your Telegram Bot Name"
+        },"OWNER_USERNAME": {
+            "description": "your Telegram UserName"
         },
         "BOT_USERNAME": {
             "description": "Your telegram bot username"
