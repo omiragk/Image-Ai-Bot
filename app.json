@@ -17,10 +17,10 @@
         },"BOT_NAME": {
             "description": "your Telegram Bot Name"
         },"OWNER_USERNAME": {
-            "description": "your Telegram UserName"
+            "description": "your Telegram UserName. without '@' "
         },
         "BOT_USERNAME": {
-            "description": "Your telegram bot username"
+            "description": "Your telegram bot username.  without '@' "
         }
     },
     "formation": {
